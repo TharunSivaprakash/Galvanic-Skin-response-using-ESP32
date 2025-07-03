@@ -44,11 +44,9 @@ An **ESP32 microcontroller** reads GSR sensor data and transmits it over Wi-Fi t
 - **Matplotlib**
 
 ---
+##  Output of an flask application when a subjects favourite person image shown
 
-## 💻 Installation
+![image](https://github.com/user-attachments/assets/3684c3a1-8eef-4001-909c-d89db91586fd)
 
-Clone this repository:
 
-```bash
-git clone https://github.com/yourusername/gsr-iot-dashboard.git
-cd gsr-iot-dashboard
+
